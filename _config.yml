@@ -1,7 +1,8 @@
 # Site settings
 title: X World
 SEOTitle: X World | by cc
-header-img: img/post-bg-desk.jpg
+#header-img: img/post-bg-desk.jpg
+header-img: img/homepage_01.jpg
 email: KaneInverse@163.com
 description: "Every failure is leading towards success."
 keyword: "香水, 香精, 调香, 调酒, 洋酒"
